@@ -1,12 +1,12 @@
 ### Hey 👋<h2> I'm Mahmud</h2>
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> About Me </h3>
 
 
 
-- 🤔 &nbsp; Try to Code daily
-- 🎓 &nbsp; Learning Modern Web Technologies
+- 💚 &nbsp; Love to Code daily
+- ❄️ &nbsp; Learning Modern Web Technologies
 - 🌱 &nbsp; Passionate WOrdpress Plugin Developer
 - ✍️ &nbsp; Studying In University of Chittagong
 
