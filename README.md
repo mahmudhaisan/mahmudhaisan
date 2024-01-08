@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Nuxt js, Three.js**
 
-- 👨‍💻 All of my projects are available at [https://mahmud-haisan.com/](https://mahmud-hasan.com/)
+- 👨‍💻 All of my projects are available at [https://mahmud-hasan.com/](https://mahmud-hasan.com/)
 
-- 📝 I regularly write articles on [https://mahmud-haisan.com/blog](https://mahmud-hasan.com/blog)
+- 📝 I regularly write articles on [https://mahmud-hasan.com/blog](https://mahmud-hasan.com/blog)
 
 - 💬 Ask me about **Wordpress, Woocommerce, PHP, Javascript, VUE js, MySQL**
 
