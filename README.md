@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/mahmudhaisan" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudhaisan?logo=twitter&style=for-the-badge" alt="mahmudhaisan" /></a> </p>
 
-- 🌱 I’m currently learning **Nuxt js, Three.js**
+- 👨‍💻 All of my projects are available at [https://mahmudhaisan.com/](https://mahmudhaisan.com/)
 
-- 👨‍💻 All of my projects are available at [https://mahmud-hasan.com/](https://mahmud-hasan.com/)
+- 📝 I regularly write articles on [https://mahmudhaisan.com/blog](https://mahmudhaisan.com/blog)
 
-- 📝 I regularly write articles on [https://mahmud-hasan.com/blog](https://mahmud-hasan.com/blog)
-
-- 💬 Ask me about **Wordpress, Woocommerce, PHP, Javascript, VUE js, MySQL**
+- 💬 Ask me about **WordPress, WooCommerce, PHP, JavaScript, React, Vue.js, Elementor, Gutenberg, WordPress plugin development, MySQL
+**
 
 - 📫 How to reach me **mahmudhaisan@gmail.com**
 
