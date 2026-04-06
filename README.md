@@ -11,53 +11,68 @@ I work with founders, ecommerce brands, and service businesses to turn messy ide
 <p align="center">
 <a href="https://mahmudhaisan.com/" target="_blank">🌐 Portfolio</a> •
 <a href="https://mahmudhaisan.com/blog" target="_blank">📝 Insights</a> •
-<a href="mailto:mahmudhaisan@gmail.com">📫 Work with me</a>
+<a href="mailto:support@mahmudhaisan.com">📩 Email</a> •
+<a href="https://wa.me/8801518638615" target="_blank">💬 WhatsApp</a>
 </p>
+
+---
+
+### 🚀 Start Here (Simple Funnel)
+
+If you're a business owner or founder:
+
+1. Visit my **Portfolio**
+2. Understand how I approach systems & products  
+3. Reach out via **Email or WhatsApp**  
+4. We discuss your idea → I suggest a structured solution  
+5. Build → Test → Scale  
 
 ---
 
 ### 💼 What Businesses Actually Get
 
-- 📈 **Revenue-focused systems** — not just websites, but flows that convert  
-- ⚙️ **Automation** — reduce manual work using smart backend logic  
-- 🛒 **Custom WooCommerce solutions** — pricing, filters, bundles, complex logic  
-- 🧩 **Productized tools** — reusable systems instead of one-off builds  
-- 🚀 **MVP development** — launch fast, validate, then scale properly  
+- 📈 Systems designed to **increase conversions & revenue**
+- ⚙️ Automation that reduces repetitive manual work  
+- 🛒 Advanced WooCommerce setups (custom pricing, filters, logic)  
+- 🧩 Reusable productized tools (not one-time builds)  
+- 🚀 Fast MVPs with a clear path to scaling  
 
 ---
 
 ### 🧠 How I Think
 
-- Every feature should solve a **business bottleneck**  
+- Every feature must solve a **real business problem**
 - Simplicity scales better than complexity  
-- A good product reduces dependency on people  
-- Speed matters — but **structure matters more**  
-- If it doesn’t impact revenue, retention, or efficiency → it’s noise  
+- Good systems reduce human dependency  
+- Long-term structure > short-term hacks  
+- If it doesn’t impact growth → it’s unnecessary  
 
 ---
 
 ### ⚡ What I Build
 
-- Scalable **WordPress plugins & Gutenberg blocks**
-- Advanced **WooCommerce product systems**
-- Custom **web apps (React / Vue powered)**
-- Internal tools for **business automation**
-- Digital products (plugins, tools, systems)
+- WordPress plugins & Gutenberg-based systems  
+- WooCommerce-based business logic & workflows  
+- Custom web apps (React / Vue)  
+- Internal business tools & automation systems  
+- Digital products (plugins, tools, frameworks)
 
 ---
 
-### 🌱 Current Direction
+### 🌱 Sustainable Approach
 
-- Building **productized WordPress solutions**
-- Creating **digital products for global markets**
-- Helping businesses move from “manual chaos” → “structured systems”
+- I build systems that are **easy to maintain & extend**
+- Focus on **long-term scalability**, not quick fixes  
+- Clean architecture → reduces future cost  
+- Performance-first thinking → better UX & retention  
+- Designed for **growth, not just launch**
 
 ---
 
-### 💻 Tech Stack (Execution Layer)
+### 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,js,react,vue,wordpress,woocommerce,nodejs,mysql,graphql,redis,tailwind,git" />
+PHP • JavaScript • React • Vue • WordPress • WooCommerce • Reactjs • MySQL • Redis • GraphQL • Tailwind • Git
 </p>
 
 ---
@@ -83,24 +98,27 @@ I work with founders, ecommerce brands, and service businesses to turn messy ide
 
 ### 🧭 Freelance Philosophy
 
-- I don’t chase projects — I build **long-term value**
-- I choose clarity over overpromising
-- I treat every build like a **product, not a task**
-- I care about outcomes, not just delivery
-- I work best with people who think long-term
+- I focus on **long-term partnerships**, not quick gigs  
+- I communicate clearly — no confusion, no fluff  
+- I build like a **product owner**, not just a developer  
+- I care about business results, not just delivery  
 
 ---
 
 ### 🌿 Lifestyle & Work
 
-I believe in building a life where:
-- Work is meaningful, not just busy  
-- Systems replace stress  
-- Income is tied to value, not hours  
-- Learning never stops  
+- Building systems that reduce stress, not increase it  
+- Value-based income over hourly dependency  
+- Continuous learning & product thinking  
+- Work aligned with freedom, clarity, and growth  
 
 ---
 
+### 📩 Work With Me
+
+- Email: support@mahmudhaisan.com  
+- WhatsApp: +8801518638615  
+
 <p align="center">
-💡 I’m not here to just code. I build systems that help businesses grow.
+💡 I build systems that help businesses grow, automate, and scale sustainably.
 </p>
