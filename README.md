@@ -1,124 +1,108 @@
-<h1 align="center">Hi 👋, I'm Mahmud Haisan</h1>
+# Hi, I'm Mahmudul Hasan
 
-<h3 align="center">
-Product Engineer helping businesses build systems that scale, automate & sell
-</h3>
+**Product Engineer helping businesses build systems that scale, automate, and sell.**
 
-<p align="center">
-I work with founders, ecommerce brands, and service businesses to turn messy ideas into structured, revenue-generating products.
-</p>
-
-<p align="center">
-<a href="https://mahmudhaisan.com/" target="_blank">🌐 Portfolio</a> •
-<a href="https://mahmudhaisan.com/blog" target="_blank">📝 Insights</a> •
-<a href="mailto:support@mahmudhaisan.com">📩 Email</a> •
-<a href="https://wa.me/8801518638615" target="_blank">💬 WhatsApp</a>
-</p>
+I collaborate with founders, ecommerce brands, and service businesses to turn ideas into structured, revenue-generating systems — without unnecessary complexity.
 
 ---
 
-### 🚀 Start Here (Simple Funnel)
-
-If you're a business owner or founder:
-
-1. Visit my **Portfolio**
-2. Understand how I approach systems & products  
-3. Reach out via **Email or WhatsApp**  
-4. We discuss your idea → I suggest a structured solution  
-5. Build → Test → Scale  
+## 🌐 Explore My Work
+- **Portfolio:** [mahmudhaisan.com](https://mahmudhaisan.com/)  
+- **Insights / Blog:** [mahmudhaisan.com/blog](https://mahmudhaisan.com/blog)  
+- **Email:** [support@mahmudhaisan.com](mailto:support@mahmudhaisan.com)  
+- **WhatsApp:** [+8801518638615](https://wa.me/8801518638615)
 
 ---
 
-### 💼 What Businesses Actually Get
+## How We Can Work Together
 
-- 📈 Systems designed to **increase conversions & revenue**
-- ⚙️ Automation that reduces repetitive manual work  
-- 🛒 Advanced WooCommerce setups (custom pricing, filters, logic)  
-- 🧩 Reusable productized tools (not one-time builds)  
-- 🚀 Fast MVPs with a clear path to scaling  
+Whether you want to scale, automate, or refine your business systems, here’s how we can collaborate:
+
+1. **See My Work:** Browse past projects to understand my approach  
+2. **Discover Approach:** Learn how I structure systems to grow revenue and reduce manual work  
+3. **Reach Out:** Start a conversation via Email or WhatsApp — no pressure, just ideas  
+4. **Plan Together:** We explore your goals and outline a clear, actionable solution  
+5. **Build & Grow:** Develop, test, and optimize systems designed for sustainable growth  
+
+This process is collaborative — you stay in control, and I guide with structure and clarity.
 
 ---
 
-### 🧠 How I Think
+## What I Help Businesses Achieve
 
-- Every feature must solve a **real business problem**
+- Increase conversions and revenue with structured systems  
+- Reduce repetitive manual work with smart automation  
+- Advanced WooCommerce setups (custom pricing, filters, and logic)  
+- Reusable, productized tools — not one-time hacks  
+- Fast MVPs with a clear roadmap for scaling  
+
+---
+
+## How I Think About Solutions
+
+- Every feature must solve a **real business problem**  
 - Simplicity scales better than complexity  
-- Good systems reduce human dependency  
+- Systems reduce dependency on humans, not creativity  
 - Long-term structure > short-term hacks  
-- If it doesn’t impact growth → it’s unnecessary  
+- If it doesn’t impact growth, it’s unnecessary  
 
 ---
 
-### ⚡ What I Build
+## What I Build
 
 - WordPress plugins & Gutenberg-based systems  
-- WooCommerce-based business logic & workflows  
+- WooCommerce business logic & workflows  
 - Custom web apps (React / Vue)  
 - Internal business tools & automation systems  
-- Digital products (plugins, tools, frameworks)
+- Digital products: plugins, tools, and frameworks  
 
 ---
 
-### 🌱 Sustainable Approach
+## Sustainable Approach
 
-- I build systems that are **easy to maintain & extend**
+- Build systems that are **easy to maintain and extend**  
 - Focus on **long-term scalability**, not quick fixes  
-- Clean architecture → reduces future cost  
+- Clean architecture → reduces future costs  
 - Performance-first thinking → better UX & retention  
-- Designed for **growth, not just launch**
+- Designed for **growth, not just launch**  
 
 ---
 
-### 💻 Tech Stack
+## Tech Stack
 
-<p align="center">
-PHP • JavaScript • React • Vue • WordPress • WooCommerce • Reactjs • MySQL • Redis • GraphQL • Tailwind • Git
-</p>
+PHP • JavaScript • React • Vue • WordPress • WooCommerce • MySQL • Redis • GraphQL • Tailwind • Git
 
 ---
 
-### 📊 GitHub Activity
+## Connect
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmudhaisan&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudhaisan&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-### 🌍 Connect
-
-<p align="center">
-<a href="https://twitter.com/mahmudhaisan" target="_blank">Twitter</a> •
-<a href="https://www.linkedin.com/in/mahmudhaisan/" target="_blank">LinkedIn</a> •
-<a href="https://stackoverflow.com/users/12383780/mahmud-haisan" target="_blank">StackOverflow</a>
-</p>
+- **Twitter:** [@mahmudhaisan](https://twitter.com/mahmudhaisan)  
+- **LinkedIn:** [Mahmud Haisan](https://www.linkedin.com/in/mahmudhaisan/)  
+- **StackOverflow:** [Mahmud Haisan](https://stackoverflow.com/users/12383780/mahmud-haisan)
 
 ---
 
-### 🧭 Freelance Philosophy
+## Freelance Philosophy
 
-- I focus on **long-term partnerships**, not quick gigs  
-- I communicate clearly — no confusion, no fluff  
-- I build like a **product owner**, not just a developer  
-- I care about business results, not just delivery  
+- Long-term partnerships, not one-off gigs  
+- Clear, transparent communication — no confusion or fluff  
+- Build like a **product owner**, not just a developer  
+- Focused on results, not just delivery  
 
 ---
 
-### 🌿 Lifestyle & Work
+## Lifestyle & Work
 
-- Building systems that reduce stress, not increase it  
+- Systems that reduce stress, not increase it  
 - Value-based income over hourly dependency  
-- Continuous learning & product thinking  
+- Continuous learning and product thinking  
 - Work aligned with freedom, clarity, and growth  
 
 ---
 
-### 📩 Work With Me
+## Work With Me
 
-- Email: support@mahmudhaisan.com  
-- WhatsApp: +8801518638615  
+- **Email:** support@mahmudhaisan.com  
+- **WhatsApp:** +8801518638615  
 
-<p align="center">
-💡 I build systems that help businesses grow, automate, and scale sustainably.
-</p>
+I build systems that help businesses grow, automate, and scale sustainably.
