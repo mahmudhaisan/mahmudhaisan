@@ -103,6 +103,6 @@ PHP • JavaScript • React • Vue • WordPress • WooCommerce • MySQL •
 ## Work With Me
 
 - **Email:** support@mahmudhaisan.com  
-- **WhatsApp:** +8801518638615  
+- **WhatsApp:** [+8801518638615](https://wa.me/8801518638615)
 
 I build systems that help businesses grow, automate, and scale sustainably.
